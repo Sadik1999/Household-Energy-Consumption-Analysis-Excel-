@@ -1,4 +1,4 @@
-# Household-Energy-Consumption-Analysis-Excel-
+# Household Energy Consumption Analysis (Excel)
 ## 🔍 Project Overview
 
 This project analyzes real-world household electricity consumption data to demonstrate Excel-based data cleaning, time-series analysis, pivot tables, and dashboard creation. The dataset contains minute-level power usage measurements with missing values and multiple energy variables, closely resembling real business data.
